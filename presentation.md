@@ -15,7 +15,7 @@ Wednesday, December 14, 2016
 * developer at Freeletics
 * amateur hockey player
 * sustainability fan
-* GitHub/Twitter: qoobaa
+* [github.com/qoobaa](https://github.com/qoobaa)
 
 ---
 
