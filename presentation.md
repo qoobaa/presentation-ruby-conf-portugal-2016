@@ -208,3 +208,10 @@ This page intentionally left blank…
 * discussion panel
 * karaoke party
 * Portugal ❤❤❤
+* https://confreaks.tv/events/rubyconfportugal2016 (5&nbsp;presentations)
+
+---
+
+class: center, middle
+
+# Thank you!
