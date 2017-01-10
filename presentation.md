@@ -4,28 +4,9 @@ class: center, middle
 ## Recap
 ## Kuba Kuźma
 
-RubyShift München
+SRUG
 
-Wednesday, December 14, 2016
-
----
-
-# About Me
-
-* developer at Freeletics
-* amateur hockey player
-* sustainability fan
-* [github.com/qoobaa](https://github.com/qoobaa)
-
----
-
-# Silesian Ruby Users Group
-
-* launched in 2008
-* around 25 meetings organized so far
-* [srug.pl](https://srug.pl)
-
----
+Tuesday, January 10, 2017
 
 # RubyConf.pt
 
