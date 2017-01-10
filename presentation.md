@@ -68,8 +68,6 @@ My code doesn't work at the moment…
 
 .center[![Ryanair Travel Insurance](images/ryanair.png)]
 
-.center[designed to trick people™]
-
 ---
 
 # Moral Responsibility
