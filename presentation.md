@@ -32,10 +32,16 @@ Auditório Vita
 # Braga
 
 * town founded in 20 BCE
-* 180k inhabitants in 2011
+* 180k inhabitants
 * the best francesinhas
 
 .center[![Location of Braga](images/braga.svg)]
+
+---
+
+# Francesinha
+
+.center[![Francesinha](images/francesinha.jpg)]
 
 ---
 
