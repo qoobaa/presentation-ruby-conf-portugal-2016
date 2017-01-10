@@ -8,6 +8,8 @@ SRUG
 
 Tuesday, January 10, 2017
 
+---
+
 # RubyConf.pt
 
 * October 27-28 (Thursday - Friday)
